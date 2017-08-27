@@ -1,4 +1,5 @@
 # ofxBayes
+[![Build Status](https://travis-ci.org/JotaroS/ofxBayes.svg?branch=master)](https://travis-ci.org/JotaroS/ofxBayes)
 ![thumbnail](thumbnail.png)
 
 ## Introduction
