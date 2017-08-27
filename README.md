@@ -59,3 +59,6 @@ Three steps required.
 
 ## License
 MIT
+
+## Acknowledgement
+Lot of inspiration from http://greenteapress.com/wp/think-bayes/
